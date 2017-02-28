@@ -4,7 +4,7 @@ export default class App extends React.Component {
   render () {
     return (
       <div className="container">
-        <h1>Change me no? Finally :v</h1>
+        <h1>Hello LuckyLam. You can do it you are awesome</h1>
       </div>
     )
   }
