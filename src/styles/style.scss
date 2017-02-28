@@ -1,3 +1,7 @@
 h1 {
     color: blue;
 }
+
+.header {
+ -dyn-margin-top: '(@win-height - @el-height)/2.0';
+}
